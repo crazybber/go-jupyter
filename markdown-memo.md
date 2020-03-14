@@ -92,6 +92,8 @@ s3://data-etl-o-target-0/logs
 
 s3://temp-data-dir
 
+s3://data-etl-o-original-raw/zone/nyc.tlc.taxi_zone_lookup.csv
+s3://data-etl-o-original-raw/zone/nyc.tlc.taxi_zone_lookup.csv
 
 arn:aws:s3:::aws-logs-622309853439-ap-northeast-1
 
@@ -153,6 +155,9 @@ https://github.com/krassowski/jupyterlab-lsp
 
 https://amazonaws-china.com/cn/blogs/big-data/install-python-libraries-on-a-running-cluster-with-emr-notebooks/
 
+https://github.com/aws-samples/amazon-eks-apache-spark-etl-sample/blob/master/src/main/scala/ValueZones.scala
+
+
 %%configure -f
 { "conf":{
           "spark.pyspark.python": "python",
@@ -161,3 +166,11 @@ https://amazonaws-china.com/cn/blogs/big-data/install-python-libraries-on-a-runn
           "spark.pyspark.virtualenv.bin.path":"/usr/bin/virtualenv"
          }
 }
+
+https://docs.aws.amazon.com/zh_cn/glue/latest/dg/aws-glue-programming-python.html
+https://amazonaws-china.com/cn/blogs/big-data/install-python-libraries-on-a-running-cluster-with-emr-notebooks/
+https://docs.aws.amazon.com/zh_cn/glue/latest/dg/edit-script.html
+https://docs.aws.amazon.com/zh_cn/glue/latest/dg/aws-glue-programming-python-samples-legislators.html
+https://github.com/aws-samples/amazon-eks-apache-spark-etl-sample/blob/master/src/main/scala/ValueZones.scala
+
+s3://data-etl-o-target-0/result/part-00000-8966722a-b52d-424c-9e60-a97f87596833-c000.snappy.parquet
