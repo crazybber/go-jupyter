@@ -131,6 +131,7 @@ s3://data-etl-o-original-raw/zone/taxi_zones_shape.zip
 + perform ETL to clean the data and store them back to S3; 
 + generate Data Visualization result with any tools you are familiar with. 
 + You need to provide a document to explain your design and a workable applications on AWS for demonstration.
++ Setup a portal for different users to login to watch different GUI
 
 demonstrate the result of your design. 
 
