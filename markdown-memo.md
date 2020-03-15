@@ -162,6 +162,11 @@ https://amazonaws-china.com/cn/blogs/big-data/install-python-libraries-on-a-runn
 https://github.com/aws-samples/amazon-eks-apache-spark-etl-sample/blob/master/src/main/scala/ValueZones.scala
 
 
+#### glue
+https://github.com/aws-samples/aws-glue-samples/blob/master/examples/resolve_choice.py
+https://github.com/aws-samples/aws-glue-samples/blob/master/examples/data_cleaning_and_lambda.py
+https://github.com/aws-samples/amazon-eks-apache-spark-etl-sample/blob/master/src/main/scala/ValueZones.scala
+
 %%configure -f
 { "conf":{
           "spark.pyspark.python": "python",
