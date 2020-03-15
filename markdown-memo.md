@@ -105,6 +105,10 @@ s3://aws-emr-resources-622309853439-ap-northeast-1
 
 s3://data-etl-1-s3-demo-1/raw/nyc.tlc.taxi_zone_lookup.csv
 
+s3://data-etl-o-original-raw/zone/nyc.tlc.taxi_zone_lookup.csv
+s3://data-etl-o-original-raw/zone/taxi_zones_shape.zip
+
+
 ## target user imporant role 
 
  1) business analyst for trends; 
