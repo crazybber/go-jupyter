@@ -67,10 +67,12 @@ https://amazonaws-china.com/cn/blogs/big-data/amazon-quicksight-adds-support-for
 https://docs.aws.amazon.com/redshift/latest/gsg/rs-gsg-clean-up-tasks.html
 
 
-## amazon quicksight
+## amazon emr notebook quicksight
 
 https://docs.aws.amazon.com/zh_cn/quicksight/latest/user/supported-manifest-file-format.html
 https://docs.aws.amazon.com/zh_cn/quicksight/latest/user/create-a-data-set-athena.html
+https://docs.aws.amazon.com/zh_cn/emr/latest/ReleaseGuide/emr-spark-glue.html
+https://docs.aws.amazon.com/zh_cn/emr/latest/ReleaseGuide/emr-spark-configure.html
 
 
 ## pyspark 
@@ -80,6 +82,8 @@ https://github.com/pogzyb/pyspark-aws-example/tree/master/notebook
 ## Amazon Redshift load data from s3
 
 https://docs.aws.amazon.com/zh_cn/redshift/latest/gsg/rs-gsg-create-sample-db.html
+
+
 
 
 # resource 
