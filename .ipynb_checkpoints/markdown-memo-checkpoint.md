@@ -79,6 +79,8 @@ https://docs.aws.amazon.com/zh_cn/emr/latest/ReleaseGuide/emr-spark-configure.ht
 
 https://github.com/pogzyb/pyspark-aws-example/tree/master/notebook
 
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html?highlight=plot#pandas.DataFrame.plot
+
 ## Amazon Redshift load data from s3
 
 https://docs.aws.amazon.com/zh_cn/redshift/latest/gsg/rs-gsg-create-sample-db.html
