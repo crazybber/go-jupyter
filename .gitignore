@@ -2,3 +2,11 @@
 /nyc_tlc_green-car_*.db
 .git/
 /.ipynb_checkpoints/green_*.csv
+/~$*
+*.mht
+some-ref-assets.files/
+output/~$*
+~$*
+/.virtual_documents
+*.log
+.ipynb_checkpoints/
